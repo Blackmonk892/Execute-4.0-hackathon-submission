@@ -1,16 +1,16 @@
 # Execute-4.0-hackathon-submission
 
 # AI-Powered Fraud Detection System – Revolutionizing Digital Security
-#Overview
+Overview
 Financial fraud is becoming increasingly sophisticated, and traditional detection methods are failing to keep up. Millions of dollars are lost daily due to fraudulent transactions, affecting businesses, banks, and users.
 
 Our AI-powered fraud detection system proactively identifies fraudulent transactions in real time before they cause financial damage. This solution ensures faster, smarter, and more transparent fraud detection by leveraging cutting-edge machine learning techniques.
 
-#Features
-#Real-Time Fraud Detection
+# Features
+1) Real-Time Fraud Detection
 Our system analyzes transactions on the fly and instantly flags suspicious activities.
 
-#Intelligent Fraud Detection Model
+2) Intelligent Fraud Detection Model
 Built using machine learning algorithms, our model continuously learns from transaction patterns to improve accuracy.
 
 # Explainable AI (XAI)
