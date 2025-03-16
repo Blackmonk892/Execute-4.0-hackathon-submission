@@ -22,9 +22,6 @@ A sleek and intuitive Streamlit-powered dashboard provides real-time insights in
 # High-Speed & Scalable API
 Using FastAPI, our backend ensures blazing-fast fraud detection, even for platforms handling millions of transactions per second.
 
-# Secure & Robust Data Storage
-Transaction history and fraud analysis data are securely stored in MySQL, ensuring data integrity and compliance.
-
 # Tech Stack
  Python – Core programming language
  NumPy, Pandas, Scikit-Learn – Data preprocessing & machine learning
